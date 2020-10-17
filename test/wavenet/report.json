@@ -1,0 +1,1603 @@
+{
+  "expected": {
+    "che_ore_sono.wav": {
+      "intent": {
+        "name": "GetTime",
+        "confidence": 1
+      },
+      "entities": [],
+      "text": "che ore sono",
+      "raw_text": "che ore sono",
+      "recognize_seconds": 0.04835253199780709,
+      "tokens": [
+        "che",
+        "ore",
+        "sono"
+      ],
+      "raw_tokens": [
+        "che",
+        "ore",
+        "sono"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": 1,
+      "wav_name": null
+    },
+    "spegnere_la_luce_del_garage.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "name",
+          "value": "luce del garage",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "state",
+          "value": "spegnere",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "spegnere la luce del garage",
+      "raw_text": "spegnere la luce del garage",
+      "recognize_seconds": 0.009270418999221874,
+      "tokens": [
+        "spegnere",
+        "la",
+        "luce",
+        "del",
+        "garage"
+      ],
+      "raw_tokens": [
+        "spegnere",
+        "la",
+        "luce",
+        "del",
+        "garage"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": 1,
+      "wav_name": null
+    },
+    "spegnere_luce_del_garage.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "name",
+          "value": "luce del garage",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "state",
+          "value": "spegnere",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "spegnere luce del garage",
+      "raw_text": "spegnere luce del garage",
+      "recognize_seconds": 0.05079762400055188,
+      "tokens": [
+        "spegnere",
+        "luce",
+        "del",
+        "garage"
+      ],
+      "raw_tokens": [
+        "spegnere",
+        "luce",
+        "del",
+        "garage"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": 1,
+      "wav_name": null
+    },
+    "accendi_luce_del_garage.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "name",
+          "value": "luce del garage",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "state",
+          "value": "accendi",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "accendi luce del garage",
+      "raw_text": "accendi luce del garage",
+      "recognize_seconds": 0.043929146999289514,
+      "tokens": [
+        "accendi",
+        "luce",
+        "del",
+        "garage"
+      ],
+      "raw_tokens": [
+        "accendi",
+        "luce",
+        "del",
+        "garage"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": 1,
+      "wav_name": null
+    },
+    "quale_e_la_temperatura.wav": {
+      "intent": {
+        "name": "GetTemperature",
+        "confidence": 1
+      },
+      "entities": [],
+      "text": "quale e la temperatura",
+      "raw_text": "quale e la temperatura",
+      "recognize_seconds": 0.007511453000915935,
+      "tokens": [
+        "quale",
+        "e",
+        "la",
+        "temperatura"
+      ],
+      "raw_tokens": [
+        "quale",
+        "e",
+        "la",
+        "temperatura"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": 1,
+      "wav_name": null
+    },
+    "accendi_la_lampada_del_soggiorno.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "name",
+          "value": "lampada del soggiorno",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "state",
+          "value": "accendi",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "accendi la lampada del soggiorno",
+      "raw_text": "accendi la lampada del soggiorno",
+      "recognize_seconds": 0.04818378600248252,
+      "tokens": [
+        "accendi",
+        "la",
+        "lampada",
+        "del",
+        "soggiorno"
+      ],
+      "raw_tokens": [
+        "accendi",
+        "la",
+        "lampada",
+        "del",
+        "soggiorno"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": 1,
+      "wav_name": null
+    },
+    "quanto_è_caldo.wav": {
+      "intent": {
+        "name": "GetTemperature",
+        "confidence": 1
+      },
+      "entities": [],
+      "text": "quanto è caldo",
+      "raw_text": "quanto è caldo",
+      "recognize_seconds": 0.008163987997249933,
+      "tokens": [
+        "quanto",
+        "è",
+        "caldo"
+      ],
+      "raw_tokens": [
+        "quanto",
+        "è",
+        "caldo"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": 1,
+      "wav_name": null
+    },
+    "quanto_è_freddo.wav": {
+      "intent": {
+        "name": "GetTemperature",
+        "confidence": 1
+      },
+      "entities": [],
+      "text": "quanto è freddo",
+      "raw_text": "quanto è freddo",
+      "recognize_seconds": 0.00813703400126542,
+      "tokens": [
+        "quanto",
+        "è",
+        "freddo"
+      ],
+      "raw_tokens": [
+        "quanto",
+        "è",
+        "freddo"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": 1,
+      "wav_name": null
+    },
+    "accendi_la_luce_del_garage.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "name",
+          "value": "luce del garage",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "state",
+          "value": "accendi",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "accendi la luce del garage",
+      "raw_text": "accendi la luce del garage",
+      "recognize_seconds": 0.04602447800061782,
+      "tokens": [
+        "accendi",
+        "la",
+        "luce",
+        "del",
+        "garage"
+      ],
+      "raw_tokens": [
+        "accendi",
+        "la",
+        "luce",
+        "del",
+        "garage"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": 1,
+      "wav_name": null
+    },
+    "spegnere_la_lampada_del_soggiorno.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "name",
+          "value": "lampada del soggiorno",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "state",
+          "value": "spegnere",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "spegnere la lampada del soggiorno",
+      "raw_text": "spegnere la lampada del soggiorno",
+      "recognize_seconds": 0.009232562999386573,
+      "tokens": [
+        "spegnere",
+        "la",
+        "lampada",
+        "del",
+        "soggiorno"
+      ],
+      "raw_tokens": [
+        "spegnere",
+        "la",
+        "lampada",
+        "del",
+        "soggiorno"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": 1,
+      "wav_name": null
+    },
+    "accendi_lampada_del_soggiorno.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "name",
+          "value": "lampada del soggiorno",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "state",
+          "value": "accendi",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "accendi lampada del soggiorno",
+      "raw_text": "accendi lampada del soggiorno",
+      "recognize_seconds": 0.047639378000894794,
+      "tokens": [
+        "accendi",
+        "lampada",
+        "del",
+        "soggiorno"
+      ],
+      "raw_tokens": [
+        "accendi",
+        "lampada",
+        "del",
+        "soggiorno"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": 1,
+      "wav_name": null
+    },
+    "la_porta_del_garage_è_aperta.wav": {
+      "intent": {
+        "name": "GetGarageState",
+        "confidence": 1
+      },
+      "entities": [],
+      "text": "la porta del garage è aperta",
+      "raw_text": "la porta del garage è aperta",
+      "recognize_seconds": 0.050504494000051636,
+      "tokens": [
+        "la",
+        "porta",
+        "del",
+        "garage",
+        "è",
+        "aperta"
+      ],
+      "raw_tokens": [
+        "la",
+        "porta",
+        "del",
+        "garage",
+        "è",
+        "aperta"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": 1,
+      "wav_name": null
+    },
+    "la_porta_del_garage_è_chiusa.wav": {
+      "intent": {
+        "name": "GetGarageState",
+        "confidence": 1
+      },
+      "entities": [],
+      "text": "la porta del garage è chiusa",
+      "raw_text": "la porta del garage è chiusa",
+      "recognize_seconds": 0.04532631400070386,
+      "tokens": [
+        "la",
+        "porta",
+        "del",
+        "garage",
+        "è",
+        "chiusa"
+      ],
+      "raw_tokens": [
+        "la",
+        "porta",
+        "del",
+        "garage",
+        "è",
+        "chiusa"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": 1,
+      "wav_name": null
+    },
+    "spegnere_lampada_del_soggiorno.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "name",
+          "value": "lampada del soggiorno",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "state",
+          "value": "spegnere",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "spegnere lampada del soggiorno",
+      "raw_text": "spegnere lampada del soggiorno",
+      "recognize_seconds": 0.009201150998705998,
+      "tokens": [
+        "spegnere",
+        "lampada",
+        "del",
+        "soggiorno"
+      ],
+      "raw_tokens": [
+        "spegnere",
+        "lampada",
+        "del",
+        "soggiorno"
+      ],
+      "wav_seconds": null,
+      "transcribe_seconds": null,
+      "speech_confidence": 1,
+      "wav_name": null
+    }
+  },
+  "actual": {
+    "che_ore_sono.wav": {
+      "intent": {
+        "name": "GetTime",
+        "confidence": 1
+      },
+      "entities": [],
+      "text": "che ore sono",
+      "raw_text": "che ore sono",
+      "recognize_seconds": 0.00043639499926939607,
+      "tokens": [
+        "che",
+        "ore",
+        "sono"
+      ],
+      "raw_tokens": [
+        "che",
+        "ore",
+        "sono"
+      ],
+      "wav_seconds": 1.2226875,
+      "transcribe_seconds": 0.5979146659956314,
+      "speech_confidence": null,
+      "wav_name": "che_ore_sono.wav",
+      "expected_intent_name": "GetTime",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "che",
+          "ore",
+          "sono"
+        ],
+        "hypothesis": [
+          "che",
+          "ore",
+          "sono"
+        ],
+        "differences": [
+          "che",
+          "ore",
+          "sono"
+        ],
+        "words": 3,
+        "errors": 0,
+        "matches": 3,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    },
+    "spegnere_la_luce_del_garage.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "state",
+          "value": "spegnere",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "name",
+          "value": "luce del garage",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "spegnere la luce del garage",
+      "raw_text": "spegnere la luce del garage",
+      "recognize_seconds": 0.000656918971799314,
+      "tokens": [
+        "spegnere",
+        "la",
+        "luce",
+        "del",
+        "garage"
+      ],
+      "raw_tokens": [
+        "spegnere",
+        "la",
+        "luce",
+        "del",
+        "garage"
+      ],
+      "wav_seconds": 2.2345625,
+      "transcribe_seconds": 0.6879412249545567,
+      "speech_confidence": null,
+      "wav_name": "spegnere_la_luce_del_garage.wav",
+      "expected_intent_name": "ChangeLightState",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "spegnere",
+          "la",
+          "luce",
+          "del",
+          "garage"
+        ],
+        "hypothesis": [
+          "spegnere",
+          "la",
+          "luce",
+          "del",
+          "garage"
+        ],
+        "differences": [
+          "spegnere",
+          "la",
+          "luce",
+          "del",
+          "garage"
+        ],
+        "words": 5,
+        "errors": 0,
+        "matches": 5,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    },
+    "spegnere_luce_del_garage.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "state",
+          "value": "spegnere",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "name",
+          "value": "luce del garage",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "spegnere luce del garage",
+      "raw_text": "spegnere luce del garage",
+      "recognize_seconds": 0.0004082779632881284,
+      "tokens": [
+        "spegnere",
+        "luce",
+        "del",
+        "garage"
+      ],
+      "raw_tokens": [
+        "spegnere",
+        "luce",
+        "del",
+        "garage"
+      ],
+      "wav_seconds": 1.9299375,
+      "transcribe_seconds": 0.6652256959932856,
+      "speech_confidence": null,
+      "wav_name": "spegnere_luce_del_garage.wav",
+      "expected_intent_name": "ChangeLightState",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "spegnere",
+          "luce",
+          "del",
+          "garage"
+        ],
+        "hypothesis": [
+          "spegnere",
+          "luce",
+          "del",
+          "garage"
+        ],
+        "differences": [
+          "spegnere",
+          "luce",
+          "del",
+          "garage"
+        ],
+        "words": 4,
+        "errors": 0,
+        "matches": 4,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    },
+    "accendi_luce_del_garage.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "state",
+          "value": "accendi",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "name",
+          "value": "luce del garage",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "accendi luce del garage",
+      "raw_text": "accendi luce del garage",
+      "recognize_seconds": 0.0003956669825129211,
+      "tokens": [
+        "accendi",
+        "luce",
+        "del",
+        "garage"
+      ],
+      "raw_tokens": [
+        "accendi",
+        "luce",
+        "del",
+        "garage"
+      ],
+      "wav_seconds": 1.8250625,
+      "transcribe_seconds": 0.6896745999692939,
+      "speech_confidence": null,
+      "wav_name": "accendi_luce_del_garage.wav",
+      "expected_intent_name": "ChangeLightState",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "accendi",
+          "luce",
+          "del",
+          "garage"
+        ],
+        "hypothesis": [
+          "accendi",
+          "luce",
+          "del",
+          "garage"
+        ],
+        "differences": [
+          "accendi",
+          "luce",
+          "del",
+          "garage"
+        ],
+        "words": 4,
+        "errors": 0,
+        "matches": 4,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    },
+    "quale_e_la_temperatura.wav": {
+      "intent": {
+        "name": "GetTemperature",
+        "confidence": 1
+      },
+      "entities": [],
+      "text": "quale e la temperatura",
+      "raw_text": "quale e la temperatura",
+      "recognize_seconds": 0.0005487679736688733,
+      "tokens": [
+        "quale",
+        "e",
+        "la",
+        "temperatura"
+      ],
+      "raw_tokens": [
+        "quale",
+        "e",
+        "la",
+        "temperatura"
+      ],
+      "wav_seconds": 1.686375,
+      "transcribe_seconds": 0.6772044620011002,
+      "speech_confidence": null,
+      "wav_name": "quale_e_la_temperatura.wav",
+      "expected_intent_name": "GetTemperature",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "quale",
+          "e",
+          "la",
+          "temperatura"
+        ],
+        "hypothesis": [
+          "quale",
+          "e",
+          "la",
+          "temperatura"
+        ],
+        "differences": [
+          "quale",
+          "e",
+          "la",
+          "temperatura"
+        ],
+        "words": 4,
+        "errors": 0,
+        "matches": 4,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    },
+    "accendi_la_lampada_del_soggiorno.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "state",
+          "value": "accendi",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "name",
+          "value": "lampada del soggiorno",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "accendi la lampada del soggiorno",
+      "raw_text": "accendi la lampada del soggiorno",
+      "recognize_seconds": 0.0007414699648506939,
+      "tokens": [
+        "accendi",
+        "la",
+        "lampada",
+        "del",
+        "soggiorno"
+      ],
+      "raw_tokens": [
+        "accendi",
+        "la",
+        "lampada",
+        "del",
+        "soggiorno"
+      ],
+      "wav_seconds": 2.4726875,
+      "transcribe_seconds": 0.7045513499761,
+      "speech_confidence": null,
+      "wav_name": "accendi_la_lampada_del_soggiorno.wav",
+      "expected_intent_name": "ChangeLightState",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "accendi",
+          "la",
+          "lampada",
+          "del",
+          "soggiorno"
+        ],
+        "hypothesis": [
+          "accendi",
+          "la",
+          "lampada",
+          "del",
+          "soggiorno"
+        ],
+        "differences": [
+          "accendi",
+          "la",
+          "lampada",
+          "del",
+          "soggiorno"
+        ],
+        "words": 5,
+        "errors": 0,
+        "matches": 5,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    },
+    "quanto_è_caldo.wav": {
+      "intent": {
+        "name": "GetTemperature",
+        "confidence": 1
+      },
+      "entities": [],
+      "text": "quanto è caldo",
+      "raw_text": "quanto è caldo",
+      "recognize_seconds": 0.0004557340289466083,
+      "tokens": [
+        "quanto",
+        "è",
+        "caldo"
+      ],
+      "raw_tokens": [
+        "quanto",
+        "è",
+        "caldo"
+      ],
+      "wav_seconds": 1.2764375,
+      "transcribe_seconds": 0.643657568958588,
+      "speech_confidence": null,
+      "wav_name": "quanto_è_caldo.wav",
+      "expected_intent_name": "GetTemperature",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "quanto",
+          "è",
+          "caldo"
+        ],
+        "hypothesis": [
+          "quanto",
+          "è",
+          "caldo"
+        ],
+        "differences": [
+          "quanto",
+          "è",
+          "caldo"
+        ],
+        "words": 3,
+        "errors": 0,
+        "matches": 3,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    },
+    "quanto_è_freddo.wav": {
+      "intent": {
+        "name": "GetTemperature",
+        "confidence": 1
+      },
+      "entities": [],
+      "text": "quanto è freddo",
+      "raw_text": "quanto è freddo",
+      "recognize_seconds": 0.00029742298647761345,
+      "tokens": [
+        "quanto",
+        "è",
+        "freddo"
+      ],
+      "raw_tokens": [
+        "quanto",
+        "è",
+        "freddo"
+      ],
+      "wav_seconds": 1.2436875,
+      "transcribe_seconds": 0.6923874749918468,
+      "speech_confidence": null,
+      "wav_name": "quanto_è_freddo.wav",
+      "expected_intent_name": "GetTemperature",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "quanto",
+          "è",
+          "freddo"
+        ],
+        "hypothesis": [
+          "quanto",
+          "è",
+          "freddo"
+        ],
+        "differences": [
+          "quanto",
+          "è",
+          "freddo"
+        ],
+        "words": 3,
+        "errors": 0,
+        "matches": 3,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    },
+    "accendi_la_luce_del_garage.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "state",
+          "value": "accendi",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "name",
+          "value": "luce del garage",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "accendi la luce del garage",
+      "raw_text": "accendi la luce del garage",
+      "recognize_seconds": 0.0005589660140685737,
+      "tokens": [
+        "accendi",
+        "la",
+        "luce",
+        "del",
+        "garage"
+      ],
+      "raw_tokens": [
+        "accendi",
+        "la",
+        "luce",
+        "del",
+        "garage"
+      ],
+      "wav_seconds": 2.1490625,
+      "transcribe_seconds": 0.7015480980044231,
+      "speech_confidence": null,
+      "wav_name": "accendi_la_luce_del_garage.wav",
+      "expected_intent_name": "ChangeLightState",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "accendi",
+          "la",
+          "luce",
+          "del",
+          "garage"
+        ],
+        "hypothesis": [
+          "accendi",
+          "la",
+          "luce",
+          "del",
+          "garage"
+        ],
+        "differences": [
+          "accendi",
+          "la",
+          "luce",
+          "del",
+          "garage"
+        ],
+        "words": 5,
+        "errors": 0,
+        "matches": 5,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    },
+    "spegnere_la_lampada_del_soggiorno.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "state",
+          "value": "spegnere",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "name",
+          "value": "lampada del soggiorno",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "spegnere la lampada del soggiorno",
+      "raw_text": "spegnere la lampada del soggiorno",
+      "recognize_seconds": 0.0005608859937638044,
+      "tokens": [
+        "spegnere",
+        "la",
+        "lampada",
+        "del",
+        "soggiorno"
+      ],
+      "raw_tokens": [
+        "spegnere",
+        "la",
+        "lampada",
+        "del",
+        "soggiorno"
+      ],
+      "wav_seconds": 2.5808125,
+      "transcribe_seconds": 0.749914928979706,
+      "speech_confidence": null,
+      "wav_name": "spegnere_la_lampada_del_soggiorno.wav",
+      "expected_intent_name": "ChangeLightState",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "spegnere",
+          "la",
+          "lampada",
+          "del",
+          "soggiorno"
+        ],
+        "hypothesis": [
+          "spegnere",
+          "la",
+          "lampada",
+          "del",
+          "soggiorno"
+        ],
+        "differences": [
+          "spegnere",
+          "la",
+          "lampada",
+          "del",
+          "soggiorno"
+        ],
+        "words": 5,
+        "errors": 0,
+        "matches": 5,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    },
+    "accendi_lampada_del_soggiorno.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "state",
+          "value": "accendi",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "name",
+          "value": "lampada del soggiorno",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "accendi lampada del soggiorno",
+      "raw_text": "accendi lampada del soggiorno",
+      "recognize_seconds": 0.0004949560388922691,
+      "tokens": [
+        "accendi",
+        "lampada",
+        "del",
+        "soggiorno"
+      ],
+      "raw_tokens": [
+        "accendi",
+        "lampada",
+        "del",
+        "soggiorno"
+      ],
+      "wav_seconds": 2.254,
+      "transcribe_seconds": 0.6835972070111893,
+      "speech_confidence": null,
+      "wav_name": "accendi_lampada_del_soggiorno.wav",
+      "expected_intent_name": "ChangeLightState",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "accendi",
+          "lampada",
+          "del",
+          "soggiorno"
+        ],
+        "hypothesis": [
+          "accendi",
+          "lampada",
+          "del",
+          "soggiorno"
+        ],
+        "differences": [
+          "accendi",
+          "lampada",
+          "del",
+          "soggiorno"
+        ],
+        "words": 4,
+        "errors": 0,
+        "matches": 4,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    },
+    "la_porta_del_garage_è_aperta.wav": {
+      "intent": {
+        "name": "GetGarageState",
+        "confidence": 1
+      },
+      "entities": [],
+      "text": "la porta del garage è aperta",
+      "raw_text": "la porta del garage è aperta",
+      "recognize_seconds": 0.0004392560222186148,
+      "tokens": [
+        "la",
+        "porta",
+        "del",
+        "garage",
+        "è",
+        "aperta"
+      ],
+      "raw_tokens": [
+        "la",
+        "porta",
+        "del",
+        "garage",
+        "è",
+        "aperta"
+      ],
+      "wav_seconds": 2.3343125,
+      "transcribe_seconds": 0.7180537599488162,
+      "speech_confidence": null,
+      "wav_name": "la_porta_del_garage_è_aperta.wav",
+      "expected_intent_name": "GetGarageState",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "la",
+          "porta",
+          "del",
+          "garage",
+          "è",
+          "aperta"
+        ],
+        "hypothesis": [
+          "la",
+          "porta",
+          "del",
+          "garage",
+          "è",
+          "aperta"
+        ],
+        "differences": [
+          "la",
+          "porta",
+          "del",
+          "garage",
+          "è",
+          "aperta"
+        ],
+        "words": 6,
+        "errors": 0,
+        "matches": 6,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    },
+    "la_porta_del_garage_è_chiusa.wav": {
+      "intent": {
+        "name": "GetGarageState",
+        "confidence": 1
+      },
+      "entities": [],
+      "text": "la porta del garage è chiusa",
+      "raw_text": "la porta del garage è chiusa",
+      "recognize_seconds": 0.0002582090091891587,
+      "tokens": [
+        "la",
+        "porta",
+        "del",
+        "garage",
+        "è",
+        "chiusa"
+      ],
+      "raw_tokens": [
+        "la",
+        "porta",
+        "del",
+        "garage",
+        "è",
+        "chiusa"
+      ],
+      "wav_seconds": 2.289625,
+      "transcribe_seconds": 0.25887451000744477,
+      "speech_confidence": null,
+      "wav_name": "la_porta_del_garage_è_chiusa.wav",
+      "expected_intent_name": "GetGarageState",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "la",
+          "porta",
+          "del",
+          "garage",
+          "è",
+          "chiusa"
+        ],
+        "hypothesis": [
+          "la",
+          "porta",
+          "del",
+          "garage",
+          "è",
+          "chiusa"
+        ],
+        "differences": [
+          "la",
+          "porta",
+          "del",
+          "garage",
+          "è",
+          "chiusa"
+        ],
+        "words": 6,
+        "errors": 0,
+        "matches": 6,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    },
+    "spegnere_lampada_del_soggiorno.wav": {
+      "intent": {
+        "name": "ChangeLightState",
+        "confidence": 1
+      },
+      "entities": [
+        {
+          "entity": "state",
+          "value": "spegnere",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        },
+        {
+          "entity": "name",
+          "value": "lampada del soggiorno",
+          "raw_value": "",
+          "source": "",
+          "start": 0,
+          "raw_start": 0,
+          "end": 0,
+          "raw_end": 0,
+          "tokens": [],
+          "raw_tokens": []
+        }
+      ],
+      "text": "spegnere lampada del soggiorno",
+      "raw_text": "spegnere lampada del soggiorno",
+      "recognize_seconds": 0.0002034860081039369,
+      "tokens": [
+        "spegnere",
+        "lampada",
+        "del",
+        "soggiorno"
+      ],
+      "raw_tokens": [
+        "spegnere",
+        "lampada",
+        "del",
+        "soggiorno"
+      ],
+      "wav_seconds": 2.3243125,
+      "transcribe_seconds": 0.26709402503911406,
+      "speech_confidence": null,
+      "wav_name": "spegnere_lampada_del_soggiorno.wav",
+      "expected_intent_name": "ChangeLightState",
+      "wrong_entities": [],
+      "missing_entities": [],
+      "word_error": {
+        "reference": [
+          "spegnere",
+          "lampada",
+          "del",
+          "soggiorno"
+        ],
+        "hypothesis": [
+          "spegnere",
+          "lampada",
+          "del",
+          "soggiorno"
+        ],
+        "differences": [
+          "spegnere",
+          "lampada",
+          "del",
+          "soggiorno"
+        ],
+        "words": 4,
+        "errors": 0,
+        "matches": 4,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "error_rate": 0
+      }
+    }
+  },
+  "num_wavs": 14,
+  "num_words": 61,
+  "num_intents": 14,
+  "num_entities": 16,
+  "correct_transcriptions": 14,
+  "correct_intent_names": 14,
+  "correct_words": 61,
+  "correct_entities": 16,
+  "correct_intent_and_entities": 14,
+  "transcription_accuracy": 1,
+  "intent_accuracy": 1,
+  "entity_accuracy": 1,
+  "intent_entity_accuracy": 1,
+  "average_transcription_speedup": 3.658526841621222
+}

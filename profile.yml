@@ -1,0 +1,30 @@
+---
+name: "it_kaldi-rhasspy"
+version: "1.0"
+
+language:
+  name: "italian"
+  code: "it"
+
+text-to-speech:
+  espeak:
+    voice: "it"
+  marytts:
+    voice: "istc-lucia-hsmm"
+
+speech-to-text:
+  acoustic-model-type: "kaldi"
+  kaldi:
+    model-type: "nnet3"
+
+training:
+  acoustic-model-type: "kaldi"
+  kaldi:
+    model-type: "nnet3"
+  large-files:
+    - !env "${profile_dir}/base_dictionary.txt"
+    - !env "${profile_dir}/base_language_model.txt"
+    - !env "${profile_dir}/base_language_model.fst"
+    - !env "${profile_dir}/g2p.fst"
+    - !env "${profile_dir}/g2p.corpus"
+    - !env "${profile_dir}/acoustic_model/model/graph/HCLG.fst"

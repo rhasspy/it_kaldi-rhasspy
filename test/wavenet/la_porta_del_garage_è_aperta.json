@@ -1,0 +1,1 @@
+{"entities":[],"intent":{"confidence":1.0,"name":"GetGarageState"},"raw_text":"la porta del garage \u00e8 aperta","raw_tokens":["la","porta","del","garage","\u00e8","aperta"],"recognize_seconds":0.050504494000051636,"slots":{},"speech_confidence":1,"text":"la porta del garage \u00e8 aperta","tokens":["la","porta","del","garage","\u00e8","aperta"]}

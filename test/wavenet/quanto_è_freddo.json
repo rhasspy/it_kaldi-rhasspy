@@ -1,0 +1,1 @@
+{"entities":[],"intent":{"confidence":1.0,"name":"GetTemperature"},"raw_text":"quanto \u00e8 freddo","raw_tokens":["quanto","\u00e8","freddo"],"recognize_seconds":0.00813703400126542,"slots":{},"speech_confidence":1,"text":"quanto \u00e8 freddo","tokens":["quanto","\u00e8","freddo"]}
