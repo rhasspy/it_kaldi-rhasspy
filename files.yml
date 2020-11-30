@@ -6,42 +6,44 @@ default:
   acoustic_model/base_graph/HCLG.fst.gz.part-00:
     bytes: 26214400
     file-name: HCLG.fst
-    sha256: 4c2885945783167003f7d73b24fc3b8b5185430fc64f4fab94b10a036a2b9303
+    sha256: c6e9e992b505fadc4eeb4259d7c5368c9f099b6e940acc02113d6e7a1e2b66b1
   acoustic_model/base_graph/HCLG.fst.gz.part-01:
     bytes: 26214400
     file-name: HCLG.fst
-    sha256: 41503873e6f9e0b4e523b72788c5895da84d622af3cd271829fda0e75b34b1dd
+    sha256: e45e47bc6f6b10ebe3d2685c6bc2b68922188025242814f292f317eaecb64baa
   acoustic_model/base_graph/HCLG.fst.gz.part-02:
     bytes: 26214400
     file-name: HCLG.fst
-    sha256: 696b3c8434a7c7484b609cc4ef23aab4552f3c5f8a932ef8aa3bc9c4611a49d3
+    sha256: 50738093e0004703c29d40e2c3c5aefbd64c43d073978f0ea08e671779d6b223
   acoustic_model/base_graph/HCLG.fst.gz.part-03:
     bytes: 26214400
     file-name: HCLG.fst
-    sha256: 19227d98a19e61d0eb73ae48d9383f1f876f61123fac05e2735543853db72208
+    sha256: 6c26956d3661c9e3595ca776eb647f8135436fdf3efd7cda3715bb0133f817dd
   acoustic_model/base_graph/HCLG.fst.gz.part-04:
     bytes: 26214400
     file-name: HCLG.fst
-    sha256: 85afcbbec1854ab2ae8001cbbf9b6f481ae04f5c8dfa9325f93e96b8eb4bd62a
+    sha256: 9eee9b0848db671554753706e5dcd3c8979684d852c34befd509d2bb4669aa86
   acoustic_model/base_graph/HCLG.fst.gz.part-05:
-    bytes: 17979222
+    bytes: 18067864
     file-name: HCLG.fst
-    sha256: 9d56172a0602b9508192d7734f8b0ae45070e12b9210d65ef501279c2a975b8f
+    sha256: a118a847c53cfc68ce3a9b7c6183bf26b22fe1d7a7b9aa07165c1f1b5eee8e26
   acoustic_model/base_graph/disambig_tid.int:
     bytes: 48
-    sha256: e3c785723231d0878884ac7dd9a5bb6da723d084a5fb5f8e0f445b6f591873ad
+    sha256: 8822dd543b8a468195d2fc17b7db077ff2e0d3b87d2768632421d45501fcadbf
   acoustic_model/base_graph/num_pdfs:
     bytes: 5
-    sha256: 186d5b3461956bb69f09008b3808d224d5960141b04aa1cb19f52bc7b5b6b045
+    sha256: f87d62748ff3f2c1ff8cd6210ff6be4b113e7025b7ac8b0a3a4f2889527f68cd
   acoustic_model/base_graph/phones.txt:
     bytes: 3948
     sha256: 25b209a47d23b409532341dcd17df3ebba15057886a36693c7b53f44f4229ed0
-  acoustic_model/base_graph/phones/align_lexicon.int:
-    bytes: 4584885
-    sha256: a1cc23fc3966362230210d2c564412abf81573ea627bf7159271c60df7e5cbfa
-  acoustic_model/base_graph/phones/align_lexicon.txt:
-    bytes: 6143449
-    sha256: 2aa283b1beff2d577f67adbdc22115d426d5c87d59733d53390037935e79ddfe
+  acoustic_model/base_graph/phones/align_lexicon.int.gz:
+    bytes: 1009217
+    file-name: align_lexicon.int
+    sha256: 63764792721747d8c24dafe72134dd4a7af03c84fb76e4828088e7da8a889ccd
+  acoustic_model/base_graph/phones/align_lexicon.txt.gz:
+    bytes: 1116079
+    file-name: align_lexicon.txt
+    sha256: 78c1f814f51a3b4a9d09d0a37709da76a4feb9eab1132beef777b69060ca139f
   acoustic_model/base_graph/phones/disambig.int:
     bytes: 32
     sha256: 94fecda810f62c0b07b8b2ce0c921c73dff1310a9c8e94500289d4e1e8defd8e
@@ -66,9 +68,10 @@ default:
   acoustic_model/base_graph/phones/word_boundary.txt:
     bytes: 5291
     sha256: 355ce089f647a7f823067a2b73ffe529c1e45cb4ba47a03bd4d3190ac750480f
-  acoustic_model/base_graph/words.txt:
-    bytes: 1694000
-    sha256: d9838a2d3d5dfcef690418fd811a1355e81fa0226ad1141a2e5c75dc8f80513c
+  acoustic_model/base_graph/words.txt.gz:
+    bytes: 575838
+    file-name: words.txt
+    sha256: 890baadd21ed097a896850dc2b2463b7f6d2c80d230f27828b07ef7170e93103
   acoustic_model/conf/mfcc.conf:
     bytes: 44
     sha256: 3ecadc6f8685df278bff3a8ddca0296368f39000010c66a2dda1eb82f8ab4a1d
@@ -80,16 +83,16 @@ default:
     sha256: 93fb4bfbc9915676e831f3cd0688c9616831ec56903dd606f972c1890cd23d97
   acoustic_model/extractor/final.dubm:
     bytes: 168048
-    sha256: 277b158cd0b17521bfd75643997d4c619331c95178b24f758e8f6dd95e8a7615
+    sha256: b1c207ba4a71a2a5a59dbafc69731009d30db695c56db34109b90d9ca4879f55
   acoustic_model/extractor/final.ie:
     bytes: 19757687
-    sha256: d33ba191b27fc9df943c202ed92cb6077fb810ee4fa6d3fc334feb3e58d0ce22
+    sha256: 72e3c55faa95e8e9a41713376a57131b5f1e0d0d219f00d62ae243901576d046
   acoustic_model/extractor/final.mat:
     bytes: 44815
-    sha256: 6edef561d37cc1475a7a4f6de18b248f94b921ba982e644c22b63f5fe40e2c00
+    sha256: 0fa5febd679109a0e17696e5decf21129308f49e7bfe14a283dce51cc8fd0939
   acoustic_model/extractor/global_cmvn.stats:
-    bytes: 1013
-    sha256: 51644c1d088e296933f561dd11a30e3ad477da4984a92919ac8bdeda17104e19
+    bytes: 1080
+    sha256: 6f7ea90c1c41f3db6967c308c033a73705940cb6616c0077f517a00e6bff6a2c
   acoustic_model/extractor/online_cmvn.conf:
     bytes: 108
     sha256: 93fb4bfbc9915676e831f3cd0688c9616831ec56903dd606f972c1890cd23d97
@@ -109,17 +112,17 @@ default:
     bytes: 37
     sha256: c10fae89f7a8b627b95c324cb23e0730ebf6a5326bd3468b698b32587a664986
   acoustic_model/model/den.fst:
-    bytes: 1051758
-    sha256: ddcfe23d6907a7df60be8a477a103d9d0343091eb19fa03ecb9f5e1a62816bc9
+    bytes: 1685154
+    sha256: ebee07fa2e61d5e7d5ade4eaf43bacd85c507acb109ce35b687a4f33eedf0fab
   acoustic_model/model/final.mdl:
-    bytes: 10889521
-    sha256: 105e5fa4ee4b291cf19c7547bfbe2bf93b50a524c127830bf6750437d0c823d4
+    bytes: 12301697
+    sha256: de866ab585334d7980c09ba17fae1218aaed462ab8d4853ac7b49cce9499f6bc
   acoustic_model/model/normalization.fst:
-    bytes: 1256686
-    sha256: 1bf030a7b12c6774d3f109eb5e99c012845bd223dcc5aff5c6805f86dc3c7ff2
+    bytes: 1951810
+    sha256: db90206e09df3cf5ddc0657e223a5f75dab5b36575ce5d11dc1f3da4d49b4611
   acoustic_model/model/tree:
-    bytes: 1098787
-    sha256: 419fe22a73b4f4c010ce27888bb7360960b536720ff4e6395e44ccb39c91f30c
+    bytes: 1419784
+    sha256: 158945ebd6bd3609d6f2d2cd8ba9759882d734f8604605b43422f6e5d32c8164
   acoustic_model/path.sh:
     bytes: 0
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
@@ -140,8 +143,8 @@ default:
     file-name: base_dictionary.txt
     sha256: 5aee67419b866245f5aca35e8fcd5eedaf61b6d2702af326a6613129727433ee
   profile.yml:
-    bytes: 631
-    sha256: ac9148d8f3f1e9ad105e6f5e1abcec8f3f6b2af9c584b589f9c79813fdcd6860
+    bytes: 962
+    sha256: 20541ffb088489425061da7dda62c40eb2a11d00b94e95ccb08975c85c25c68c
   slot_programs/rhasspy/number:
     bytes: 651
     sha256: d1f10ccea552c2c9ba2a59dd69705f8e82545592c7db5ca7078b462ed9d08387
