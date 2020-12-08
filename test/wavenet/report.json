@@ -584,7 +584,7 @@
       "entities": [],
       "text": "che ore sono",
       "raw_text": "che ore sono",
-      "recognize_seconds": 0.00028155600011814386,
+      "recognize_seconds": 0.00034096800663974136,
       "tokens": [
         "che",
         "ore",
@@ -596,7 +596,7 @@
         "sono"
       ],
       "wav_seconds": 1.2226875,
-      "transcribe_seconds": 0.5655649349992018,
+      "transcribe_seconds": 1.3554902169998968,
       "speech_confidence": null,
       "wav_name": "che_ore_sono.wav",
       "expected_intent_name": "GetTime",
@@ -660,7 +660,7 @@
       ],
       "text": "spegnere la luce del garage",
       "raw_text": "spegnere la luce del garage",
-      "recognize_seconds": 0.00048814600086188875,
+      "recognize_seconds": 0.0006049619987607002,
       "tokens": [
         "spegnere",
         "la",
@@ -676,7 +676,7 @@
         "garage"
       ],
       "wav_seconds": 2.2345625,
-      "transcribe_seconds": 0.6444481039998209,
+      "transcribe_seconds": 1.5494113720051246,
       "speech_confidence": null,
       "wav_name": "spegnere_la_luce_del_garage.wav",
       "expected_intent_name": "ChangeLightState",
@@ -746,7 +746,7 @@
       ],
       "text": "spegnere luce del garage",
       "raw_text": "spegnere luce del garage",
-      "recognize_seconds": 0.0004979390014341334,
+      "recognize_seconds": 0.00048740800411906093,
       "tokens": [
         "spegnere",
         "luce",
@@ -760,7 +760,7 @@
         "garage"
       ],
       "wav_seconds": 1.9299375,
-      "transcribe_seconds": 0.662930222999421,
+      "transcribe_seconds": 1.4947445650032023,
       "speech_confidence": null,
       "wav_name": "spegnere_luce_del_garage.wav",
       "expected_intent_name": "ChangeLightState",
@@ -827,7 +827,7 @@
       ],
       "text": "accendi luce del garage",
       "raw_text": "accendi luce del garage",
-      "recognize_seconds": 0.00040735599941399414,
+      "recognize_seconds": 0.0004711299989139661,
       "tokens": [
         "accendi",
         "luce",
@@ -841,7 +841,7 @@
         "garage"
       ],
       "wav_seconds": 1.8250625,
-      "transcribe_seconds": 0.6140970670003298,
+      "transcribe_seconds": 1.408256672002608,
       "speech_confidence": null,
       "wav_name": "accendi_luce_del_garage.wav",
       "expected_intent_name": "ChangeLightState",
@@ -883,7 +883,7 @@
       "entities": [],
       "text": "quale e la temperatura",
       "raw_text": "quale e la temperatura",
-      "recognize_seconds": 0.0003096210002695443,
+      "recognize_seconds": 0.0003469139919616282,
       "tokens": [
         "quale",
         "e",
@@ -897,7 +897,7 @@
         "temperatura"
       ],
       "wav_seconds": 1.686375,
-      "transcribe_seconds": 0.6231172409989085,
+      "transcribe_seconds": 1.5112325680092908,
       "speech_confidence": null,
       "wav_name": "quale_e_la_temperatura.wav",
       "expected_intent_name": "GetTemperature",
@@ -964,7 +964,7 @@
       ],
       "text": "accendi la lampada del soggiorno",
       "raw_text": "accendi la lampada del soggiorno",
-      "recognize_seconds": 0.0004759639996336773,
+      "recognize_seconds": 0.0010150199959753081,
       "tokens": [
         "accendi",
         "la",
@@ -980,7 +980,7 @@
         "soggiorno"
       ],
       "wav_seconds": 2.4726875,
-      "transcribe_seconds": 0.711089032000018,
+      "transcribe_seconds": 1.5651107790035894,
       "speech_confidence": null,
       "wav_name": "accendi_la_lampada_del_soggiorno.wav",
       "expected_intent_name": "ChangeLightState",
@@ -1025,7 +1025,7 @@
       "entities": [],
       "text": "quanto è caldo",
       "raw_text": "quanto è caldo",
-      "recognize_seconds": 0.0003820910005742917,
+      "recognize_seconds": 0.0003933849948225543,
       "tokens": [
         "quanto",
         "è",
@@ -1037,7 +1037,7 @@
         "caldo"
       ],
       "wav_seconds": 1.2764375,
-      "transcribe_seconds": 0.5867672139993374,
+      "transcribe_seconds": 1.4352065959974425,
       "speech_confidence": null,
       "wav_name": "quanto_è_caldo.wav",
       "expected_intent_name": "GetTemperature",
@@ -1076,7 +1076,7 @@
       "entities": [],
       "text": "quanto è freddo",
       "raw_text": "quanto è freddo",
-      "recognize_seconds": 0.0003165519992762711,
+      "recognize_seconds": 0.005093108004075475,
       "tokens": [
         "quanto",
         "è",
@@ -1088,7 +1088,7 @@
         "freddo"
       ],
       "wav_seconds": 1.2436875,
-      "transcribe_seconds": 0.573856386999978,
+      "transcribe_seconds": 1.3956808109942358,
       "speech_confidence": null,
       "wav_name": "quanto_è_freddo.wav",
       "expected_intent_name": "GetTemperature",
@@ -1152,7 +1152,7 @@
       ],
       "text": "accendi la luce del garage",
       "raw_text": "accendi la luce del garage",
-      "recognize_seconds": 0.000662373999148258,
+      "recognize_seconds": 0.0007570020097773522,
       "tokens": [
         "accendi",
         "la",
@@ -1168,7 +1168,7 @@
         "garage"
       ],
       "wav_seconds": 2.1490625,
-      "transcribe_seconds": 0.6612460980013566,
+      "transcribe_seconds": 1.2187900360004278,
       "speech_confidence": null,
       "wav_name": "accendi_la_luce_del_garage.wav",
       "expected_intent_name": "ChangeLightState",
@@ -1238,7 +1238,7 @@
       ],
       "text": "spegnere la lampada del soggiorno",
       "raw_text": "spegnere la lampada del soggiorno",
-      "recognize_seconds": 0.0008277450015157228,
+      "recognize_seconds": 0.000993231005850248,
       "tokens": [
         "spegnere",
         "la",
@@ -1254,7 +1254,7 @@
         "soggiorno"
       ],
       "wav_seconds": 2.5808125,
-      "transcribe_seconds": 0.6816900480007462,
+      "transcribe_seconds": 1.7061197229922982,
       "speech_confidence": null,
       "wav_name": "spegnere_la_lampada_del_soggiorno.wav",
       "expected_intent_name": "ChangeLightState",
@@ -1324,7 +1324,7 @@
       ],
       "text": "accendi lampada del soggiorno",
       "raw_text": "accendi lampada del soggiorno",
-      "recognize_seconds": 0.00042504999873926863,
+      "recognize_seconds": 0.0004583510017255321,
       "tokens": [
         "accendi",
         "lampada",
@@ -1338,7 +1338,7 @@
         "soggiorno"
       ],
       "wav_seconds": 2.254,
-      "transcribe_seconds": 0.6540937970003142,
+      "transcribe_seconds": 1.6090094269893598,
       "speech_confidence": null,
       "wav_name": "accendi_lampada_del_soggiorno.wav",
       "expected_intent_name": "ChangeLightState",
@@ -1380,7 +1380,7 @@
       "entities": [],
       "text": "la porta del garage è aperta",
       "raw_text": "la porta del garage è aperta",
-      "recognize_seconds": 0.0005189959993003868,
+      "recognize_seconds": 0.00040654599433764815,
       "tokens": [
         "la",
         "porta",
@@ -1398,7 +1398,7 @@
         "aperta"
       ],
       "wav_seconds": 2.3343125,
-      "transcribe_seconds": 0.6595287899999676,
+      "transcribe_seconds": 1.6057986720115878,
       "speech_confidence": null,
       "wav_name": "la_porta_del_garage_è_aperta.wav",
       "expected_intent_name": "GetGarageState",
@@ -1446,7 +1446,7 @@
       "entities": [],
       "text": "la porta del garage è chiusa",
       "raw_text": "la porta del garage è chiusa",
-      "recognize_seconds": 0.00018376099978922866,
+      "recognize_seconds": 0.0004294719983590767,
       "tokens": [
         "la",
         "porta",
@@ -1464,7 +1464,7 @@
         "chiusa"
       ],
       "wav_seconds": 2.289625,
-      "transcribe_seconds": 0.2241071850003209,
+      "transcribe_seconds": 1.1103035940031987,
       "speech_confidence": null,
       "wav_name": "la_porta_del_garage_è_chiusa.wav",
       "expected_intent_name": "GetGarageState",
@@ -1537,7 +1537,7 @@
       ],
       "text": "spegnere lampada del soggiorno",
       "raw_text": "spegnere lampada del soggiorno",
-      "recognize_seconds": 0.00020766099987667985,
+      "recognize_seconds": 0.0005128119955770671,
       "tokens": [
         "spegnere",
         "lampada",
@@ -1551,7 +1551,7 @@
         "soggiorno"
       ],
       "wav_seconds": 2.3243125,
-      "transcribe_seconds": 0.2191803039986553,
+      "transcribe_seconds": 1.1408413070021197,
       "speech_confidence": null,
       "wav_name": "spegnere_lampada_del_soggiorno.wav",
       "expected_intent_name": "ChangeLightState",
@@ -1599,5 +1599,5 @@
   "intent_accuracy": 1,
   "entity_accuracy": 1,
   "intent_entity_accuracy": 1,
-  "average_transcription_speedup": 4.062946419801676
+  "average_transcription_speedup": 1.4026869613821957
 }

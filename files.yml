@@ -6,7 +6,7 @@ default:
   acoustic_model/base_graph/HCLG.fst.gz.part-00:
     bytes: 26214400
     file-name: HCLG.fst
-    sha256: c6e9e992b505fadc4eeb4259d7c5368c9f099b6e940acc02113d6e7a1e2b66b1
+    sha256: dd13cea8fe39ec02a972390a077b8699d064c105679c3ecd940b1fc63ab1f2cb
   acoustic_model/base_graph/HCLG.fst.gz.part-01:
     bytes: 26214400
     file-name: HCLG.fst
@@ -39,11 +39,11 @@ default:
   acoustic_model/base_graph/phones/align_lexicon.int.gz:
     bytes: 1009217
     file-name: align_lexicon.int
-    sha256: 63764792721747d8c24dafe72134dd4a7af03c84fb76e4828088e7da8a889ccd
+    sha256: 958e6b66d2fab398a67e6767de4e466280cfa85fde2d752f23fa043f588eab33
   acoustic_model/base_graph/phones/align_lexicon.txt.gz:
     bytes: 1116079
     file-name: align_lexicon.txt
-    sha256: 78c1f814f51a3b4a9d09d0a37709da76a4feb9eab1132beef777b69060ca139f
+    sha256: 28fa2236247af8497cccd8550dd8f6ca0b4beee426f173d57a8c38defdf9b017
   acoustic_model/base_graph/phones/disambig.int:
     bytes: 32
     sha256: 94fecda810f62c0b07b8b2ce0c921c73dff1310a9c8e94500289d4e1e8defd8e
@@ -71,7 +71,7 @@ default:
   acoustic_model/base_graph/words.txt.gz:
     bytes: 575838
     file-name: words.txt
-    sha256: 890baadd21ed097a896850dc2b2463b7f6d2c80d230f27828b07ef7170e93103
+    sha256: 606b19f487998edc655abe1f2a9c945a81b8d67653c9a4fa6ae0cee3a5dc3934
   acoustic_model/conf/mfcc.conf:
     bytes: 44
     sha256: 3ecadc6f8685df278bff3a8ddca0296368f39000010c66a2dda1eb82f8ab4a1d
@@ -139,9 +139,9 @@ default:
     bytes: 12
     sha256: 15f0e007c3c86a9ceef4d85bd4e8d5750e5ae8a888ed067fa5e8bd6302b30941
   base_dictionary.txt.gz:
-    bytes: 1107610
+    bytes: 1107180
     file-name: base_dictionary.txt
-    sha256: 5aee67419b866245f5aca35e8fcd5eedaf61b6d2702af326a6613129727433ee
+    sha256: 455e886fa8d54ff0370189d081320f00ab57d7d5c214901e41ab5d9210bfcac2
   profile.yml:
     bytes: 962
     sha256: 20541ffb088489425061da7dda62c40eb2a11d00b94e95ccb08975c85c25c68c
@@ -151,8 +151,10 @@ default:
   stop_words.txt:
     bytes: 1654
     sha256: 293d7841f198e4012f49e8e5653c3bfd073a58cea1259fa2c0fcec894167b628
-
-# Files needed to guess word pronunciations
+examples:
+  sentences.ini:
+    bytes: 307
+    sha256: 4c6263e3a5a2a24031873933168a9e11b38b6072b7280d7e858b2d1448088cfa
 grapheme-to-phoneme:
   g2p.corpus.gz:
     bytes: 162493
@@ -162,8 +164,15 @@ grapheme-to-phoneme:
     bytes: 4327334
     file-name: g2p.fst
     sha256: 0bb30f151d76db756940cf591ebf627eca09b87f8a83ed8fa3c6b3f91abc172d
-
-# Files needed for open transcription (pre-built model)
+mixed-language-model:
+  base_language_model.fst.gz.part-00:
+    bytes: 26214400
+    file-name: base_language_model.fst
+    sha256: 3c4247c91ea26ae9a51510cff99ffef62eaefd922887adaea2d73f1119056b8f
+  base_language_model.fst.gz.part-01:
+    bytes: 12756015
+    file-name: base_language_model.fst
+    sha256: fb9c017385b822b1246811f2108dc41445aeb9651435dd85a7dd9f1da25501fa
 open-transcription:
   base_language_model.txt.gz.part-00:
     bytes: 26214400
@@ -173,27 +182,7 @@ open-transcription:
     bytes: 12008867
     file-name: base_language_model.txt
     sha256: af2ad24b6f1f1732b4052b367a2622c641acb31617627f242de2da1b6a52d878
-
-# Files needed for mixed language modeling (pre-built + custom)
-mixed-language-model:
-  base_language_model.fst.gz.part-00:
-    bytes: 26214400
-    file-name: base_language_model.fst
-    sha256: 3e669ddf1dd5ea4970ef56b73d8111d83750b679ed10bf8ca83e15e3d792e9b4
-  base_language_model.fst.gz.part-01:
-    bytes: 12756015
-    file-name: base_language_model.fst
-    sha256: fb9c017385b822b1246811f2108dc41445aeb9651435dd85a7dd9f1da25501fa
-
-
-# Files needed for text to speech
 text-to-speech:
   espeak_phonemes.txt:
     bytes: 158
     sha256: 3adbad751e71ace85a0848f4b9db6a4231d87225a83a39a754a810a965746939
-    
-# Sample sentences, etc.
-examples:
-  sentences.ini:
-    bytes: 307
-    sha256: 4c6263e3a5a2a24031873933168a9e11b38b6072b7280d7e858b2d1448088cfa

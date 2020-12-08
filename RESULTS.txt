@@ -1,0 +1,1 @@
+%WER 2.86 [ 5653 / 197786, 496 ins, 1969 del, 3188 sub ] exp/nnet3_chain/tdnn_250/decode_test/wer_11_0.0
