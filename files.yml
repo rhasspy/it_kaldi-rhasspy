@@ -151,10 +151,12 @@ default:
   stop_words.txt:
     bytes: 1654
     sha256: 293d7841f198e4012f49e8e5653c3bfd073a58cea1259fa2c0fcec894167b628
+
 examples:
   sentences.ini:
     bytes: 307
     sha256: 4c6263e3a5a2a24031873933168a9e11b38b6072b7280d7e858b2d1448088cfa
+
 grapheme-to-phoneme:
   g2p.corpus.gz:
     bytes: 162493
@@ -163,7 +165,8 @@ grapheme-to-phoneme:
   g2p.fst.gz:
     bytes: 4327334
     file-name: g2p.fst
-    sha256: 0bb30f151d76db756940cf591ebf627eca09b87f8a83ed8fa3c6b3f91abc172d
+    sha256: 6f91f02613cbb33eee864f64e0c7f6ecb53a2a9af48e4486ef2833fdaf680901
+
 mixed-language-model:
   base_language_model.fst.gz.part-00:
     bytes: 26214400
@@ -173,6 +176,7 @@ mixed-language-model:
     bytes: 12756015
     file-name: base_language_model.fst
     sha256: fb9c017385b822b1246811f2108dc41445aeb9651435dd85a7dd9f1da25501fa
+
 open-transcription:
   base_language_model.txt.gz.part-00:
     bytes: 26214400
@@ -182,6 +186,7 @@ open-transcription:
     bytes: 12008867
     file-name: base_language_model.txt
     sha256: af2ad24b6f1f1732b4052b367a2622c641acb31617627f242de2da1b6a52d878
+
 text-to-speech:
   espeak_phonemes.txt:
     bytes: 158
